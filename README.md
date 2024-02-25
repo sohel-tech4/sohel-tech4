@@ -1,4 +1,4 @@
-![image](https://github.com/sohel-tech4/sohel-tech4/assets/161211991/ebe5af4c-1b65-4753-a1f3-7b86cfd42b41)<h1 align="center">Hi👋, I'm Sohel Rana</h1>
+<h1 align="center">Hi👋, I'm Sohel Rana</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React+Developer;Full+Stack+Developer;Frontend+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> 
 </p> 
@@ -28,6 +28,7 @@
 
 
 <h1 align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=sohel-tech4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohel-tech4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohel-tech4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
