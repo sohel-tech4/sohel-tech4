@@ -20,10 +20,10 @@
 
 <h2 align="left"> 🌐 Connect with me:</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sohel696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohel-tech4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheltech) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sohel696) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soheltech4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheltech) 
 
 - 👨‍💻 All of my projects are available at [https://sohel-tech.netlify.app/](https://sohel-tech.netlify.app/)
-- 📫 How to reach me **sohel-tech4@gmail.com**
+- 📫 How to reach me **soheltech4@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_UejIDqeUgl3OvBHQpKncbuFdy8ghaiq/view](https://drive.google.com/file/d/1_UejIDqeUgl3OvBHQpKncbuFdy8ghaiq/view)
 
 
