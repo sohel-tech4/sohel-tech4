@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;React+Developer;Full+Stack+Developer;Frontend+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> 
 </p> 
 
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
 ✅ I’m currently learning **TypeScript**
 
 ✅ Ask me about **Web Development**
