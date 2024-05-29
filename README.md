@@ -4,7 +4,8 @@
 </p> 
 
 <p align="center">
-<h1 align="center">Visitors</h1>
+<h5 align="center">Visitors</h5>
+
 ![Visitor Count](https://profile-counter.glitch.me/sohel-tech4/count.svg)
 
 </p> 
